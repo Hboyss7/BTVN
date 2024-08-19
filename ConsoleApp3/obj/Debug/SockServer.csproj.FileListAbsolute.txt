@@ -1,0 +1,15 @@
+C:\Users\PC602\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\PC602\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\PC602\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\PC602\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\SockServer.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\SockServer.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\PC602\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\CICT\Downloads\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\CICT\Downloads\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\CICT\Downloads\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\CICT\Downloads\ConsoleApp3\obj\Debug\SockServer.csproj.AssemblyReference.cache
+C:\Users\CICT\Downloads\ConsoleApp3\obj\Debug\SockServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\CICT\Downloads\ConsoleApp3\obj\Debug\SockServer.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\CICT\Downloads\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
